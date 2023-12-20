@@ -1,0 +1,75 @@
+
+
+
+nav > button {
+    background-color: rgb(2, 76, 2);
+    padding: 20px;
+    border-radius: 20px;
+    position: relative;
+    left: 70%;
+
+   
+}
+h1{
+    text-align: center;
+    font-style: italic ;
+    color: rgb(241, 241, 161);
+    background-color: rgb(2, 76, 2);
+    padding: 50px;
+}
+ .a1{
+    color: white;
+    
+ }
+ .a{
+    color: white;
+    
+ } 
+ div img{
+    
+    position: relative;
+    left: 19%;
+ }
+ p{
+    font-family: 'roboto';
+    font-size: large;
+    font-style: italic;
+    color: rgb(40, 38, 38);
+ }
+form{
+    position: relative;
+    left: 80%;
+    width: 330px;
+    background-color: rgb(2, 76, 2);
+}
+.bu {
+    color: rgb(241, 241, 161);
+}
+ form > label{
+    color: white;
+   
+ }
+ form > input{
+    color: black;
+    background-color: white;
+ }
+ iframe{
+    width: 50%;
+    padding-left: 25%;
+    padding-right: 30%;
+    background-color: rgb(2, 76, 2);
+ }
+ form > button{
+    background-color:rgb(2, 76, 2) ;
+    padding: 12px;
+  
+ }
+footer{
+    text-align: center;
+    background-color: rgb(2, 76, 2);
+}
+
+
+footer>p{
+    color: white;
+}
